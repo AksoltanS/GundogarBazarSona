@@ -1,0 +1,17 @@
+/* body{
+    background-color: aliceblue;
+    padding: 40px;
+
+}
+.bg{
+    background-image: url( ../public/footer.png);
+    width: 100vw;
+    height:100vh;
+    background-size:cover;
+
+
+} */
+/* backgroundImage: `url( $({'../public/footer.png'})`,
+width: '100vw',
+height:'100vh',
+backgroundSize:"cover", */
